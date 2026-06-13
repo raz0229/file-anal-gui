@@ -16,6 +16,7 @@ It supports three modes:
 - **Abdullah Zafar** *(L1F23BSAI0054)*
 - Talha Abid *(L1F23BSAI0058)*
 - Abdurrehman *(L1F23BSAI0050)*
+- Waqar Hussain *(L1F23BSAI0078)*
 
 ## Requirements
 
