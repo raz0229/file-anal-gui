@@ -272,7 +272,7 @@ class FileAnalyzerApp(tk.Tk):
         results_outer.pack(fill="both", expand=True, padx=16, pady=10)
 
         # Stats grid (left column)
-        stats_col = tk.Frame(results_outer, bg=BG, width=320)
+        stats_col = tk.Frame(results_outer, bg=BG, width=520)
         stats_col.pack(side="left", fill="y", padx=(0, 10))
         stats_col.pack_propagate(False)
 
